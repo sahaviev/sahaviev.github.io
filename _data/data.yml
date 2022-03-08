@@ -87,10 +87,10 @@ experience:
     company: «Alfabank» Moscow
     country: Russian Federation
     details: |
-      team management (10 frontend developers) and coordination work between developers and business departments,
-      participate in development (JavaScript/React.JS/Node.JS) microservices architecture of bank solutions,
+      Management of team with 10 frontend developers. Coordination work between developers and business departments,
+      participate in development(JavaScript/TypeScript/ReactJS/NodeJS) microservices architecture of bank solutions,
       organizing code review process, participate in technical interviews as main interviewer,
-      one-2-one meetings with developers, helping developers in solving technical problems,
+      organizing one-2-one meetings with developers, helping developers in solving technical problems,
       mentoring, onboarding newcomers.
 
   - role: Frontend Developer
