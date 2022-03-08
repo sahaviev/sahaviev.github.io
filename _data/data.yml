@@ -144,10 +144,10 @@ projects:
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time: January 2020 - Present
+    role: part time external tutor
+    company: HtmlAcademy, Moscow
+    country: Russian Federation
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      Tutoring students during education on JavaScript courses: JavaScript 1(basics), JavaScript level 2(enterprice development patterns,
+      with object-oriented development), JavaScript level 3(ReactJS/TypeScript/Redux).
