@@ -9,68 +9,75 @@ contact:
   linkedin: pro-rail-sakhaviev
   phone: +7(937)526-37-27
   gitlab:
-  twitter:
 
 languages:
   - idiom: English
   - idiom: Russian
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Automated Systems of collecting and processing information
+    time: 2008-2013
+    university: KAZAN NATIONAL RESEARCH TECHNOLOGICAL UNIVERSITY
 
 skills:
-  - category: Backend
-    skill:
-      - Go
-      - Rust
   - category: Frontend
     skill:
-      - React
+      - JavaScript
       - Typescript
+      - React
+      - CSS/SCSS
+  - category: Backend
+    skill:
+      - PHP
+      - Python
   - category: DevOps
     skill:
       - Docker
       - Kubernetes
+      - Terraform
+      - AWS
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-  fugiat nulla pariatur.
+  Hello everyone. Thanks a lot for paying attention to my CV!
+  My name is Rail Sakhaviev and I have been working in software development since 2010.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Senior Software Engineer
+    time: 2021 April - Present
+    company: «MVPTECH» Dubai, United Arab Emirates
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-      fugiat nulla pariatur.
+      Developing frontend part of products using TypeScript, ReactJS, Redux, developing backend part of products using
+      NodeJS, participating in code review process, CI/CD configuration and Docker configuration for product.
+      Configuration cluster for Kubernetes in G42 Cloud. Writing development process documentation.
     technologies_used: |
-      Go, Angular, Typescript, C++
+      Javascript, React, Redux, Typescript, Kubernetes, Docker, Cloud, Gitlab
 
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Head of Delivery in Frontend Department.
+    time: 2020 May - 2021 April
+    company: «ALFABANK» «ALFABANK» Moscow, Russian Federation
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-      fugiat nulla pariatur.
-    technologies_used: |
-      Python, Tensorflow, Keras, Matlab
+      Leading department with 20 developers (1 architect, 3 team leaders, 16 developers).
+      Building and managing a team. Meetings with technical and consumers parties.
+      Organizing in JIRA tech-backlog and coordinating process working with it, creating monthly presentation for
+      demonstrating the progress of department to team and other management. Control and given the result in a
+      predictable time.
+
+      Tech-backlog contains technical tasks that are not related to the new functionality but important for product
+      quality and staying keep up with the times. For instance, Cypress(end-2-end) test coverage for all products in
+      department, TypeScript integration, refactoring.
+
+      Meeting with employees for TechCISK (technical confirmation of improved skills and knowledge i.e. generally it is
+      called Employee Performance Review) and writing PDP (personal development plan) for employee.
+      It’s required a lot of time - I did it at least 15 times last year.
+
+      For TechCISK from my side were updated and writhed a lot of questions for Hard Skill’s assessment: JavaScript,
+      TypeScript, React.JS, Redux, object-oriented design patterns, development principles like DRY, KISS, SOLID,
+      YAGNI, BDUF and etc.
+
+      And operational activities: hiring, firing, promoting employees, working with motivation, sending and explaining
+      company news, helping with solving problems which directly do not relative to development.
 
 publications:
   - title: Random title of paper. An interesting one.
