@@ -16,7 +16,7 @@ languages:
 
 education:
   - degree: Computer Science
-  - degree_description: Automated Systems of collecting and processing information
+    degree_description: Automated Systems of collecting and processing information
     time: 2008-2013
     university: KNRTU
     university_description: Kazan National Research Technological University
