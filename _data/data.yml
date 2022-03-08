@@ -56,26 +56,26 @@ experience:
 
   - role: Head of Delivery in Frontend Department.
     time: 2020 May - 2021 April
-    company: «ALFABANK» «ALFABANK» Moscow, Russian Federation
+    company: «ALFABANK» Moscow, Russian Federation
     details: |
       Leading department with 20 developers (1 architect, 3 team leaders, 16 developers).
       Building and managing a team. Meetings with technical and consumers parties.
       Organizing in JIRA tech-backlog and coordinating process working with it, creating monthly presentation for
       demonstrating the progress of department to team and other management. Control and given the result in a
       predictable time.
-
+      <br />
       Tech-backlog contains technical tasks that are not related to the new functionality but important for product
       quality and staying keep up with the times. For instance, Cypress(end-2-end) test coverage for all products in
       department, TypeScript integration, refactoring.
-
+      <br />
       Meeting with employees for TechCISK (technical confirmation of improved skills and knowledge i.e. generally it is
       called Employee Performance Review) and writing PDP (personal development plan) for employee.
       It’s required a lot of time - I did it at least 15 times last year.
-
+      <br />
       For TechCISK from my side were updated and writhed a lot of questions for Hard Skill’s assessment: JavaScript,
       TypeScript, React.JS, Redux, object-oriented design patterns, development principles like DRY, KISS, SOLID,
       YAGNI, BDUF and etc.
-
+      <br />
       And operational activities: hiring, firing, promoting employees, working with motivation, sending and explaining
       company news, helping with solving problems which directly do not relative to development.
 
