@@ -58,7 +58,8 @@ experience:
 
   - role: Head of Delivery in Frontend Department
     time: May 2020 - April 2021
-    company: «Alfabank» Moscow, Russian Federation
+    company: «Alfabank» Moscow
+    country: Russian Federation
     details: |
       Leading department with 20 developers (1 architect, 3 team leaders, 16 developers).
       Building and managing a team. Meetings with technical and consumers parties.
@@ -83,7 +84,8 @@ experience:
 
   - role: Lead Frontend Developer / Team Leader
     time: November 2020 - May 2020
-    company: «Alfabank» Moscow, Russian Federation
+    company: «Alfabank» Moscow
+    country: Russian Federation
     details: |
       team management (10 frontend developers) and coordination work between developers and business departments,
       participate in development (JavaScript/React.JS/Node.JS) microservices architecture of bank solutions,
@@ -93,14 +95,16 @@ experience:
 
   - role: Frontend Developer
     time: September 2018 - November 2019
-    company: «KLIKA-TECH» Minsk, Republic of Belarus
+    company: «KLIKA-TECH» Minsk
+    country: Republic of Belarus
     details: |
       developing (JavaScript, React.JS, Angular, Node.JS) and designing user interactions on SPA application(chatbot),
       code refactoring, programming UI/UX part of product in artificial intelligence sphere. Working in a hard skilled agile team.
 
   - role: Software Engineer / Fullstack Developer
     time: September 2018 - November 2019
-    company: «Florist-Didgital», Kazan, Russian Federation
+    company: «Florist-Didgital», Kazan
+    country: Russian Federation
     details: |
       developing backend(PHP, Python) and website applications for online shop(1kk visitors per day), servers configuration,
       creating database functionality, designing and developing API's, developing integration with CRM-systems,
@@ -108,7 +112,8 @@ experience:
 
   - role: Software Engineer / Fullstack Developer
     time: November 2010 - October 2013
-    company: «Sistema Documentooborota», Kazan, Russian Federation
+    company: «Sistema Documentooborota», Kazan
+    country: Russian Federation
     details: |
       developing backend and web-applications using PHP. Developing call center web-panel and integration with AVAYA using
       Java Telefony API, integration with 4 mobile providers(system development).
