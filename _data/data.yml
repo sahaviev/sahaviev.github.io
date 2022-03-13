@@ -98,7 +98,7 @@ experience:
     company: «KLIKA-TECH» Minsk
     country: Republic of Belarus
     details: |
-      developing (JavaScript, React.JS, Angular, Node.JS) and designing user interactions on SPA application(chatbot),
+      Developing (JavaScript, React.JS, Angular, Node.JS) and designing user interactions on SPA application(chatbot),
       code refactoring, programming UI/UX part of product in artificial intelligence sphere. Working in a hard skilled agile team.
 
   - role: Software Engineer / Fullstack Developer
@@ -106,7 +106,7 @@ experience:
     company: «Florist-Didgital», Kazan
     country: Russian Federation
     details: |
-      developing backend(PHP, Python) and website applications for online shop(1kk visitors per day), servers configuration,
+      Developing backend(PHP, Python) and website applications for online shop(1kk visitors per day), servers configuration,
       creating database functionality, designing and developing API's, developing integration with CRM-systems,
       integration (using RabbitMQ) with 3th party services for analytics, supporting company web-sites.
 
@@ -115,7 +115,7 @@ experience:
     company: «Sistema Documentooborota», Kazan
     country: Russian Federation
     details: |
-      developing backend and web-applications using PHP. Developing call center web-panel and integration with AVAYA using
+      Developing backend and web-applications using PHP. Developing call center web-panel and integration with AVAYA using
       Java Telefony API, integration with 4 mobile providers(system development).
 
 publications:
@@ -145,9 +145,18 @@ projects:
 # Volunteering
 volunteering:
   - time: January 2020 - Present
-    role: External Tutor(part time)
+    role: External Tutor (part time)
     company: HtmlAcademy, Moscow
     country: Russian Federation
     details: |
       Tutoring students during education on JavaScript courses: JavaScript 1(basics), JavaScript level 2(enterprice development patterns,
       with object-oriented development), JavaScript level 3(ReactJS/TypeScript/Redux).
+  - time: September 2020 - 2021 April
+    role: External Tutor (part time)
+    company: Hexlet, Helsinki
+    country: Finland
+    details: |
+      “Hexlet“ education company currently based in Finland which help beginners to become programmers
+      and experienced developers to gain new knowledge and grow professionally.
+      List of my responsibilities as a part tutor: consulting, mentoring, code review, pair programming and studying
+      junior developers how to develop high quality programs.
