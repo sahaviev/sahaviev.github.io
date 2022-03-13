@@ -1,7 +1,7 @@
 {% assign projects = site.data.data.projects %}
 {% if projects %}
 <section class="projects">
-    <h2 class="title">Projects</h2>
+    <h2 class="title">Certifications</h2>
     {% for p in projects %}
         <div class="project">
             <span>
@@ -9,7 +9,9 @@
                     {{p.title}}
                 </a>
             </span>
-            <span class="details">- {{p.details}}</span>
+            {% if p.details %}
+                <span class="details">- {{p.details}}</span>
+            {% endif %}
         </div>
     {% endfor %}
 </section>
