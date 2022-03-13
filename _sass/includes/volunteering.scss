@@ -6,10 +6,12 @@
         margin-bottom: 20px;
         .role {
             @include sub-header;
+            margin-bottom: 10px;
         }
         .organization {
             @include body-text;
             font-weight: bold;
+            margin-bottom: 10px;
             .time {
                 float: right;
                 color: var(--fg-color-title-sm);

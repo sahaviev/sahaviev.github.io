@@ -1,16 +1,16 @@
-{% assign projects = site.data.data.projects %}
-{% if projects %}
-<section class="projects">
+{% assign certifications = site.data.data.certifications %}
+{% if certifications %}
+<section class="certifications">
     <h2 class="title">Certifications</h2>
-    {% for p in projects %}
-        <div class="project">
+    {% for c in certifications%}
+        <div class="certificate">
             <span>
-                <a class="project-link" href="{{p.link}}">
-                    {{p.title}}
+                <a class="certificate-link" href="{{c.link}}">
+                    {{c.title}}
                 </a>
             </span>
-            {% if p.details %}
-                <span class="details">- {{p.details}}</span>
+            {% if c.details %}
+                <span class="details">- {{c.details}}</span>
             {% endif %}
         </div>
     {% endfor %}
