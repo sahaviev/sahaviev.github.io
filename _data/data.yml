@@ -118,16 +118,16 @@ experience:
       Developing backend and web-applications using PHP. Developing call center web-panel and integration with AVAYA using
       Java Telefony API, integration with 4 mobile providers(system development).
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+#publications:
+#  - title: Random title of paper. An interesting one.
+#    link: "#"
+#    authors: John E. Doe
+#    conference: Some conference, 2016
+#
+#  - title: Second title of paper. An interesting one too.
+#    link: "#"
+#    authors: John E. Doe
+#    conference: Some conference again, 2018
 
 certifications:
   - title: JavaScript Advanced [2019]
