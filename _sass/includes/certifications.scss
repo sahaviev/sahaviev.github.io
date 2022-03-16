@@ -2,9 +2,9 @@
     .title {
         @include header;
     }
-    .project {
+    .certificate {
         margin-bottom: 20px;
-        .project-link {
+        .certificate-link {
             @include body-text;
         }
         .details {
