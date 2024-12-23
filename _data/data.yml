@@ -24,18 +24,17 @@ education:
 skills:
   - category: Stack
     skill:
-      - React/Redux
-      - Next.JS
-      - Nest.Js
-      - Angular
-  - category: Frontend
-    skill:
       - JavaScript
       - Typescript
       - CSS/SCSS
+  - category: Frontend
+    skill:
+      - React/Redux
+      - Next.JS
   - category: Backend
     skill:
-      - NodeJS
+      - NodeJs
+      - Nest.Js
       - Python
       - PostgreSQL/MySQL
       - Redis
@@ -52,89 +51,208 @@ skills:
 
 # Profile
 profile: |
-  I have 14 years proven track record in frontend and backend development and technical leadership. As a dedicated
-  software engineer, today I create resilient web application architectures and solutions on
-
-  Node.JS (Nest) and perfect UX/UI interfaces using React/Angular frameworks.
-  I have extensive experience in creating and deploying cloud (AWS, Azure and other) infrastructures and applications
+  <strong>14 years</strong> proven track record in frontend and backend development and technical leadership. As a dedicated
+  software engineer, today I create resilient web application architectures and solutions on <strong>Node.JS</strong> 
+  (<strong>Nest</strong>) and perfect UX/UI interfaces using <strong>React/Angular</strong> (<strong>Next.JS</strong>) frameworks.
+  <br /><br />
+  I have extensive experience in creating and deploying cloud (<strong>AWS</strong>, Azure and other) infrastructures and applications
   and their maintenance.
-
+  <br /><br />
   My strong background helps me translate business requirements and bring it into applications effectively and quickly. I
   am mastering and integrate new technologies, diving into business details.
 
 # Experience
 experience:
+  - role: Staff Software Engineer / FullStack Development
+    time: June 2024 - Present
+    company: Actualize, Dubai, United Arab Emirates
+    country: United Arab Emirates
+    details: |
+      Core contributor in Platform team I participate in architecture and functionality development of enterprise IAM
+      (identity and access management) system(B2C, B2B, multi tenancy) using Nest.JS based on Zitadel.
+        <ul>
+          <li>
+            Author of React SDK npm package for developers with a set of components and hooks for IAM system,
+            the library helps to quickly integrate with the IAM service, customize design and save development time.
+          </li>
+          <li>
+            Developed functionality for Active Directory LDAP authorization on backend.
+          </li>
+          <li>
+            Developed functionality for MFA (multi-factor authentication) on backend.
+          </li>
+        </ul>
+      Other completed tasks:
+        <ul>
+          <li>
+            Author of Grammar Checker AI project improving productivity and checking grammar application for Arabic speakers. 
+            Browser extension on frontend highlights errors and offer suggestions in text blocks exactly like it does Grammarly.
+          </li>
+          <li>
+            Configured infrastructure for Doc Engine AI project using AWS EKS cluster, created deployments and configured
+            pipelines using Pulumi IaaS Tool.
+          </li>
+          <li>
+            Led News Analytics AI project development and successfully delivered it in a short time.
+          </li>
+          <li>
+            Created an interview plan and conducted 10 developer interviews.
+          </li>
+        </ul>
+    technologies_used: |
+      <strong>Typescript</strong>, <strong>Node.JS</strong>, <strong>Nest.JS</strong>, <strong>AWS Cloud</strong>,
+      <strong>React</strong>, <strong>Next.js</strong>, <strong>Zitadel</strong>
+
+  - role: Senior Software Engineer / Frontend Development
+    time: August 2022 - June 2024
+    company: KingMakers, Dubai, United Arab Emirates
+    country: United Arab Emirates
+    details: |
+      <ul>
+        <li>Developed frontend for new main page in Sportsbook web application with real-time updating page with ~100-200 sport
+        events on it.</li>
+        <li>Led the full integration of Strapi CMS into the all organization projects. Orchestrated architecture and deployment
+        on Azure Kubernetes Services using Terraform. Supporting over 10 projects and utilized daily by a team of
+        20+ developers + content managers. Resulting in a simplifying an increasing in the speed of static content updates.
+        CMS system can handle load > 1 million users per day and now is a company standard</li>
+        <li>Co-Authored a new BFF(backend for frontend) system on Cloudflare Workers. 
+        Transformed how frontend applications interaction with backend services,
+        enhancing system responsiveness and user experience.</li>
+        <li>Managed infrastructure for frontend projects on Azure DevOps. Optimized resource utilization and
+        ensure robust infrastructure performance.</li>
+        <li>Actively managed, mentored, and trained diverse team of frontend developers. Focused on enhancing code
+        quality and adherence to best practices through hands-on engagement and code review.</li>
+        <li>Developed and deployed new version of product(React/Next.js) with over 50 API endpoints integrated with new BFF.</li>
+      </ul>
+    technologies_used: |
+      <strong>Typescript</strong>, <strong>React</strong>, <strong>Redux</strong>, <strong>Next.js</strong>,
+      <strong>Remix</strong>, <strong>Azure Cloud</strong>, <strong>Cloudflare</strong>, <strong>Strapi CMS</strong>
+
   - role: Senior Software Engineer / Frontend Development
     time: April 2021 - Present
-    company: «MVPTECH» Dubai, United Arab Emirates
+    company: MVP Tech, Dubai, United Arab Emirates
+    country: United Arab Emirates
     details: |
-      Developing frontend part of products using TypeScript, ReactJS, Redux, developing backend part of products using
-      NodeJS, participating in code review process, CI/CD configuration and Docker configuration for product.<br />
-      Configuration cluster for Kubernetes in G42 Cloud. Writing development process documentation.
+      <ul>
+        <li>
+          Headed development of charts rendering module for a sports analytics product, incorporating Highcharts and
+          Echarts libraries. Designed and implemented a highly flexible and scalable architecture to accommodate 25
+          distinct chart types within a single-page application (SPA). Each chart features customizable legends and tooltips,
+          accommodating with complex business logic.
+        </li>
+        <li>
+          Increased development team experience in product operation, integrated DevOps practices. I was responsible for
+          architecting clusters in cloud infrastructure for company products, containerized deployment packages and
+          created CI/CD pipeline in GitLab.
+        </li>
+        <li>
+          Authored Confluence documentation on development processes, technology standards, deployment protocols. My
+          documentation helped to organize development efforts, systematized new team members onboarding process
+          and played a crucial role in the company’s audit compliance.
+        </li>
+      </ul>
     technologies_used: |
-      Javascript, React, Redux, Typescript, Kubernetes, Docker, Cloud, Gitlab
+      <strong>TypeScript</strong>, <strong>Node.js</strong>, <strong>React</strong>, <strong>Huawei Cloud</strong>,
+      <strong>Kubernetes</strong>, <strong>Docker</strong>, <strong>Gitlab</strong>
 
-  - role: Head of Delivery in Frontend Department
+  - role: Head of Delivery Frontend / Engineering Manager
     time: May 2020 - April 2021
-    company: «Alfabank» Moscow
+    company: Alfabank, Moscow, Russia
     country: Russian Federation
     details: |
-      Leading department with 20 developers (1 architect, 3 team leaders, 16 developers).
-      Building and managing a team. Meetings with technical and consumers parties.
-      Organizing in JIRA tech-backlog and coordinating process working with it, creating monthly presentation for
-      demonstrating the progress of department to team and other management. Control and given the result in a
-      predictable time.
-      <br /><br />
-      Tech-backlog contains technical tasks that are not related to the new functionality but important for product
-      quality and staying keep up with the times. For instance, Cypress(end-2-end) test coverage for all products in
-      department, TypeScript integration, refactoring.
-      <br /><br />
-      Meeting with employees for TechCISK (technical confirmation of improved skills and knowledge i.e. generally it is
-      called Employee Performance Review) and writing PDP (personal development plan) for employee.
-      It’s required a lot of time - I did it at least 15 times last year.
-      <br /><br />
-      For TechCISK from my side were updated and writhed a lot of questions for Hard Skill’s assessment: JavaScript,
-      TypeScript, React.JS, Redux, object-oriented design patterns, development principles like DRY, KISS, SOLID,
-      YAGNI, BDUF and etc.
-      <br /><br />
-      And operational activities: hiring, firing, promoting employees, working with motivation, sending and explaining
+      Led department of 20 developers (1 architect, 3 team leaders, 16 developers).
+      <ul>
+        <li>
+          Organized technical backlog with frontend debt tasks for 10 teams: as result teams solved problems in pipelines,
+          implemented screenshot testing tools and integrated it to company design system, fixed lots of technical debt
+          tasks, each team integrated Cypress and wrote tests(>90% covered) for their projects.
+        </li>
+        <li>
+          Implemented effective retention strategies that halved employee churn in my subdivision, saving the company
+          equivalent of 15 months’ salary of an average developer.
+        </li>
+        <li>
+          Headed workplace improvement strategies that propelled employee job satisfaction from 70% to 94%, as
+          evidenced by HR surveys — the highest increase across all 4 subdivisions. This achievement not only boosted
+          morale but also enhanced productivity and team cohesion.
+        </li>
+      </ul>
+      Operational work: employees hiring, firing, promoting and motivating. Sending and explaining
       company news, helping with solving problems which directly do not relative to development.
 
   - role: Lead Frontend Developer / Team Leader
     time: November 2020 - May 2020
-    company: «Alfabank» Moscow
+    company: Alfabank, Moscow, Russia
     country: Russian Federation
     details: |
-      Management of team with 10 frontend developers. Coordination work between developers and business departments,
-      participate in development(JavaScript/TypeScript/ReactJS/NodeJS) microservices architecture of bank solutions,
-      organizing code review process, participate in technical interviews as main interviewer,
-      organizing one-2-one meetings with developers, helping developers in solving technical problems,
-      mentoring, onboarding newcomers.
-
-  - role: Frontend Developer
-    time: September 2018 - November 2019
-    company: «KLIKA-TECH» Minsk
-    country: Republic of Belarus
-    details: |
-      Developing (JavaScript, React.JS, Angular, Node.JS) and designing user interactions on SPA application(chatbot),
-      code refactoring, programming UI/UX part of product in artificial intelligence sphere. Working in a hard skilled agile team.
+      Coordinated work of different teams (10 frontend developers), ensuring efficient and fast solution of business needs.
+      <ul>
+        <li>
+          Developed of a micro-frontend architecture, for centralized authentication service utilized across
+          12 distinct services within the platform.
+        </li>
+        <li>
+          Led team of 8 developers in refactoring and developing frontend applications that previously lagged in
+          compliance with company standards and utilized outdated technologies. My leadership led successful refactoring
+          of 5 actively developed project from JavaScript to TypeScript, established mandatory code reviews for new PRs,
+          and facilitated adoption of standardized company utilities and libraries, enhancing both code quality and team
+          performance.
+        </li>
+        <li>
+          Conducted numerous technical interviews, organized one-2-one meetings with developers, helped developers 
+          solving technical problems, mentored and onboarding newcomers.
+        </li>
+      </ul>
+    technologies_used: |
+      <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong>, <strong>Redux</strong>
 
   - role: Software Engineer / Fullstack Developer
     time: September 2018 - November 2019
-    company: «Florist-Didgital», Kazan
+    company: Florist-Digital, Kazan, Russia
     country: Russian Federation
     details: |
-      Developing backend(PHP, Python) and website applications for online shop(1kk visitors per day), servers configuration,
-      creating database functionality, designing and developing API's, developing integration with CRM-systems,
-      integration (using RabbitMQ) with 3th party services for analytics, supporting company web-sites.
+      <ul>
+        <li>
+          Developed frontend and backend components of an audio message recording system in checkout payment</li>
+          completion page of flowers delivery website(~100k users per day in high season).
+        <li>
+          Configured FreeSwitch PBX IVR menu(using Python) to enable customers listen these messages via 
+          toll-free number. This feature was marketing experiment to create a unique touchpoint in the purchasing journey.
+        </li>
+        <li>
+          Developed a high-capacity service for logging integration tool interactions, equipped with a REST API for data
+          access. System supports logging of ~100,000 messages per day.</li>
+        <li>
+          Developed new checkout and main page designs.
+        </li>
+      </ul>
+    technologies_used: |
+      <strong>JavaScript</strong>, <strong>PHP</strong>, <strong>Python</strong>, 
+      <strong>MySQL</strong>, <strong>Nginx</strong>, <strong>Symfony</strong>, <strong>RabbitMQ</strong>
 
   - role: Software Engineer / Fullstack Developer
     time: November 2010 - October 2013
-    company: «Sistema Documentooborota», Kazan
+    company: Document Management Systems, Kazan, Russia
     country: Russian Federation
     details: |
-      Developing backend and web-applications using PHP. Developing call center web-panel and integration with AVAYA using
-      Java Telefony API, integration with 4 mobile providers(system development).
+      <ul>
+        <li>
+          Integrated Avaya telephony with call center web data management system for operators handling emergency
+          hotline services, which resulted in a decreased response time over the 1 year since the adaptation in the region.
+        </li>
+        <li>
+          Developed SMS Gateway application for getting messages from emergency call number and sending it to the 
+          call center for further processing.
+        </li>
+        <li>
+          Developed a comprehensive internal web application(using PHP and MySQL) to manage employee work hours,
+          overtimes accounting, tracking vacations, and oversee business trips. This tool has significantly streamlined
+          HR processes, improved record accuracy, and facilitated better workforce management.
+        </li>
+      </ul>
+    technologies_used: |
+      <strong>JavaScript</strong>, <strong>PHP</strong>, <strong>MySQL</strong>, 
+      <strong>PostgreSQL</strong>, <strong>Nginx</strong>, <strong>Avaya</strong>
 
 #publications:
 #  - title: Random title of paper. An interesting one.
@@ -148,21 +266,6 @@ experience:
 #    conference: Some conference again, 2018
 
 certifications:
-  - title: JavaScript Advanced [2019]
-    link: https://testprovider.com/ru/Certificate/Search/TP37624469
-    details: |
-      TestProvider
-
-  - title: JavaScript Patterns [2019]
-    link: https://testprovider.com/ru/Certificate/Search/TP54477024
-    details: |
-      TestProvider
-
-  - title: Git Essential [2019]
-    link: https://testprovider.com/ru/Certificate/Search/TP79692936
-    details: |
-      TestProvider
-
   - title: Certificate of English Level [2019]
     link: https://www.efset.org/cert/fZQhQT
     details: |
@@ -177,17 +280,20 @@ certifications:
 volunteering:
   - time: January 2020 - Present
     role: External Tutor (part time)
-    company: HtmlAcademy, Moscow
+    company: HtmlAcademy, Moscow, Russia
     country: Russian Federation
     details: |
-      Tutoring students during education on JavaScript courses: JavaScript 1(basics), JavaScript level 2(enterprice development patterns,
-      with object-oriented development), JavaScript level 3(ReactJS/TypeScript/Redux).
-  - time: September 2020 - 2021 April
-    role: External Tutor (part time)
-    company: Hexlet, Helsinki
-    country: Finland
-    details: |
-      “Hexlet“ education company currently based in Finland which help beginners to become programmers
-      and experienced developers to gain new knowledge and grow professionally.
-      List of my responsibilities as a part tutor: consulting, mentoring, code review, pair programming and studying
-      junior developers how to develop high quality programs.
+      During the 5 years I studied more then 100 people.
+      I was involved as a group teacher or as an individual mentor.
+      <br /><br />
+      <strong>Frontend development courses</strong>:
+      <ul>
+        <li>JavaScript 1. Simple JavaScript application</li>
+        <li>JavaScript 2. Complex JavaScript application</li>
+        <li>JavaScript 3. React/Redux Toolkit application on TypeScript</li>
+      </ul>
+      <strong>Backend development courses</strong>:
+      <ul>
+        <li>Node.js 1. Developing enterprise framework and REST API using Express.js</li>
+        <li>Node.js 2. Developing microservises architecture application using Nest.js + Mongo + PostgreSQL + RabbitMQ</li>
+      </ul>

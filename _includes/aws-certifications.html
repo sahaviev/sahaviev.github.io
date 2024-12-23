@@ -1,0 +1,18 @@
+{% assign aws-certifications = site.data.data.aws-certifications %}
+{% if aws-certifications %}
+<section class="certifications">
+    <h2 class="title">AWS Certifications</h2>
+    {% for c in aws-certifications%}
+        <div class="certificate">
+            <span>
+                <a class="certificate-link" href="{{c.link}}">
+                    {{c.title}}
+                </a>
+            </span>
+            {% if c.details %}
+                <span class="details">- {{c.details}}</span>
+            {% endif %}
+        </div>
+    {% endfor %}
+</section>
+{% endif %}
