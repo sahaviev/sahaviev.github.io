@@ -61,6 +61,12 @@ profile: |
   My strong background helps me translate business requirements and bring it into applications effectively and quickly. I
   am mastering and integrate new technologies, diving into business details.
 
+aws-certifications:
+  - title: AWS Certified Cloud Practitioner [2022]
+    link: https://www.credly.com/badges/7eb8842a-e80a-4552-a00b-11cef491246d
+    details: |
+      Amazon Web Services Training and Certification
+
 # Experience
 experience:
   - role: Staff Software Engineer / FullStack Development
@@ -266,11 +272,6 @@ experience:
 #    conference: Some conference again, 2018
 
 certifications:
-  - title: Certificate of English Level [2019]
-    link: https://www.efset.org/cert/fZQhQT
-    details: |
-      EF SET
-
   - title: Business communication and negotiation course [2020]
     link: https://drive.google.com/file/d/19aNEZGBAWxId-Z21VyRTtKReoZA6x8Dq/view?usp=sharing
     details: |
