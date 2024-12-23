@@ -6,7 +6,7 @@ fork: true
 contact:
   email: sahaviev@gmail.com
   github: sahaviev
-  linkedin: pro-rail-sakhaviev
+  linkedin: rail-sakhaviev
   phone:
   gitlab:
 
@@ -15,34 +15,52 @@ languages:
   - idiom: Russian
 
 education:
-  - degree: Computer Science
+  - degree: Bachelor degree
     degree_description: Automated Systems of collecting and processing information
     time: 2008-2013
     university: KNRTU
     university_description: Kazan National Research Technological University
 
 skills:
+  - category: Stack
+    skill:
+      - React/Redux
+      - Next.JS
+      - Nest.Js
+      - Angular
   - category: Frontend
     skill:
       - JavaScript
       - Typescript
-      - React
       - CSS/SCSS
   - category: Backend
     skill:
-      - PHP
+      - NodeJS
       - Python
+      - PostgreSQL/MySQL
+      - Redis
+      - RabbitMQ
+      - MongoDB
+  - category: Clouds
+    skill:
+      - AWS
   - category: DevOps
     skill:
       - Docker
       - Kubernetes
       - Terraform
-      - AWS
 
 # Profile
 profile: |
-  Thanks a lot for paying attention to my CV!<br />
-  My name is Rail Sakhaviev and I have been working in software development since 2010.
+  I have 14 years proven track record in frontend and backend development and technical leadership. As a dedicated
+  software engineer, today I create resilient web application architectures and solutions on
+
+  Node.JS (Nest) and perfect UX/UI interfaces using React/Angular frameworks.
+  I have extensive experience in creating and deploying cloud (AWS, Azure and other) infrastructures and applications
+  and their maintenance.
+
+  My strong background helps me translate business requirements and bring it into applications effectively and quickly. I
+  am mastering and integrate new technologies, diving into business details.
 
 # Experience
 experience:
