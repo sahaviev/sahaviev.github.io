@@ -4,14 +4,8 @@
     <h2 class="title">AWS Certifications</h2>
     {% for c in aws-certifications%}
         <div class="certificate">
-            <span>
-                <a class="certificate-link" href="{{c.link}}">
-                    {{c.title}}
-                </a>
-            </span>
-            {% if c.details %}
-                <span class="details">- {{c.details}}</span>
-            {% endif %}
+            <span><a class="certificate-link" href="{{c.link}}">{{c.title}}</a></span>
+            {% if c.details %}<span class="details"> - {{c.details}}</span>{% endif %}
         </div>
     {% endfor %}
 </section>

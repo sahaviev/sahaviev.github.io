@@ -62,6 +62,10 @@ profile: |
   am mastering and integrate new technologies, diving into business details.
 
 aws-certifications:
+  - title: AWS Certified Solutions Architect – Associate [2024]
+    link: https://www.credly.com/badges/25550b3a-0bf8-4d33-b052-d51a301d1ef3/linked_in?t=sp7clf
+    details: |
+      Amazon Web Services Training and Certification
   - title: AWS Certified Cloud Practitioner [2022]
     link: https://www.credly.com/badges/7eb8842a-e80a-4552-a00b-11cef491246d
     details: |
